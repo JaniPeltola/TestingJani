@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Smiley-hahmo_0: -4853039960346315207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
